@@ -1,2 +1,2 @@
 # projectCV
-Personal project about CV
+Personal project about CVs management.
